@@ -19931,4 +19931,14 @@ div.drawioframe {
   font-family: serif;
   user-select: none; }
 
+/* Hide heading anchors on mobile */
+@media (max-width: 768px) {
+  .td-page-meta .td-page-meta__link,
+  .anchor {
+    display: none; } }
+
+@media (max-width: 768px) {
+  .td-heading-self-link {
+    display: none !important; } }
+
 /*# sourceMappingURL=main.css.map */

@@ -1,10 +1,37 @@
 ---
 title: "The Magic of English"
-linkTitle:  "Power of English"
+linkTitle:  "Magic of English"
 date: "2025-08-11T22:37:25+02:00"
 draft: false
 weight: 1
 lexicon:
+  - term: "morphology"
+    definition: "The study of word forms"
+    stressed: "morph*ology"
+  - term: "magical"
+    definition: "magique"
+    stressed: "m*agical"
+  - term: "power"
+    definition: "pouvoir"
+    stressed: "p*ower"
+  - term: "verb"
+    definition: "verbe"
+    stressed: "verb"
+  - term: "noun"
+    definition: "nom"
+    stressed: "noun"
+  - term: "adjective"
+    definition: "adjectif"
+    stressed: "*adjective"
+  - term: "regular"
+    definition: "régulier"
+    stressed: "r*egular"
+  - term: "plural"
+    definition: "pluriel"
+    stressed: "pl*ural"
+  - term: "genitive"
+    definition: "génitif"
+    stressed: "g*enitive"
 ---
 ## A - The Powers of English
 ### Power 1: Simplicity
