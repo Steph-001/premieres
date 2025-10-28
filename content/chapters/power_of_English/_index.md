@@ -39,7 +39,7 @@ lexicon:
 
 {{< spacer height="4rem" >}}
 
-<!--
+
 ### Power 2: Brevity
 
 {{< fullscreen-image src="tweet.jpg" >}}
@@ -50,6 +50,8 @@ lexicon:
 {{< audio src="Oneil_2.mp3" width="80%" rounded="true" >}}
 
 {{< spacer height="4rem" >}}
+
+
 ### Power 3: Creativity
 
 {{< fullscreen-image src="verbing.png" >}}
@@ -61,6 +63,8 @@ lexicon:
 {{< audio src="portmanteau.mp3" width="80%" rounded="true" >}}
 
 {{< spacer height="4rem" >}}
+
+
 ### Power 4: Diversity
 {{< responsive-image src="snake.webp" max_width="25%" >}}
 
@@ -86,6 +90,7 @@ lexicon:
 </div>
 
 {{< spacer height="4rem" >}}
+
 ### Power 5: Musicality
 
 
@@ -99,4 +104,3 @@ lexicon:
 
 {{< audio src="boots.mp3" width="80%" rounded="true" >}}
 
---!>

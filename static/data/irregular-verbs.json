@@ -53,5 +53,20 @@
     "base": "write",
     "past": "wrote",
     "participle": "written"
+  },
+  {
+    "base": "lose",
+    "past": "lost",
+    "participle": "lost"
+  },
+  {
+    "base": "see",
+    "past": "saw",
+    "participle": "seen"
+  },
+  {
+    "base": "forget",
+    "past": "forgot",
+    "participle": "forgotten"
   }
 ]
