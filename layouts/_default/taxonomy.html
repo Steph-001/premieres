@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+  {{ partial "head.html" . }}
+  <body class="d-flex flex-column">
+    {{ partial "navbar.html" . }}
+    <div id="main-content" class="main-content">
+      <div class="td-page-meta pb-2 pt-3" style="margin-top: 80px;">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-9 pr-md-4">
+              <h1>{{ .Title }}</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container-fluid td-default td-outer">
+        <div class="row">
+          <div class="col-md-9 pr-md-4">
+            <div class="td-content">
+              {{ range .Pages }}
+                <p>
+                  <a href="{{ .Permalink }}"><strong>{{ .Title }}</strong></a>
+                </p>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ partial "footer.html" . }}
+  </body>
+</html>
